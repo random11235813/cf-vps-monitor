@@ -5,7 +5,7 @@
 // 默认管理员账户配置
 const DEFAULT_ADMIN_CONFIG = {
   USERNAME: 'admin',
-  PASSWORD: 'monitor2025!',
+  PASSWORD: 'password',
 };
 
 // 安全配置 - 增强验证
